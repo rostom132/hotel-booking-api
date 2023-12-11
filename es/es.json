@@ -1,0 +1,100 @@
+{ "index" : { "_index" : "hotel"} }
+{"id":1,"name":"Hotel 1","areaName":"Quận 2","cityName":"Tp Hồ Chí Minh"}
+{ "index" : { "_index" : "hotel"} }
+{"id":2,"name":"Hotel 2","areaName":"Quận 3","cityName":"Tp Hồ Chí Minh"}
+{ "index" : { "_index" : "hotel"} }
+{"id":3,"name":"Hotel 3","areaName":"Quận 4","cityName":"Tp Hồ Chí Minh"}
+{ "index" : { "_index" : "hotel"} }
+{"id":4,"name":"Hotel 4","areaName":"Quận 5","cityName":"Tp Hồ Chí Minh"}
+{ "index" : { "_index" : "hotel"} }
+{"id":5,"name":"Hotel 5","areaName":"Quận 6","cityName":"Tp Hồ Chí Minh"}
+{ "index" : { "_index" : "hotel"} }
+{"id":6,"name":"Hotel 6","areaName":"Quận 7","cityName":"Tp Hồ Chí Minh"}
+{ "index" : { "_index" : "hotel"} }
+{"id":7,"name":"Hotel 7","areaName":"Quận 8","cityName":"Tp Hồ Chí Minh"}
+{ "index" : { "_index" : "hotel"} }
+{"id":8,"name":"Hotel 8","areaName":"Quận 9","cityName":"Tp Hồ Chí Minh"}
+{ "index" : { "_index" : "hotel"} }
+{"id":9,"name":"Hotel 9","areaName":"Quận 10","cityName":"Tp Hồ Chí Minh"}
+{ "index" : { "_index" : "hotel"} }
+{"id":10,"name":"Hotel 10","areaName":"Quận 11","cityName":"Tp Hồ Chí Minh"}
+{ "index" : { "_index" : "hotel"} }
+{"id":11,"name":"Hotel 11","areaName":"Quận 12","cityName":"Tp Hồ Chí Minh"}
+{ "index" : { "_index" : "hotel"} }
+{"id":12,"name":"Hotel 12","areaName":"Gò Vấp","cityName":"Tp Hồ Chí Minh"}
+{ "index" : { "_index" : "hotel"} }
+{"id":13,"name":"Hotel 13","areaName":"Bình Tân","cityName":"Tp Hồ Chí Minh"}
+{ "index" : { "_index" : "hotel"} }
+{"id":14,"name":"Hotel 14","areaName":"Tân Phú","cityName":"Tp Hồ Chí Minh"}
+{ "index" : { "_index" : "hotel"} }
+{"id":15,"name":"Hotel 15","areaName":"Tân Bình","cityName":"Tp Hồ Chí Minh"}
+{ "index" : { "_index" : "hotel"} }
+{"id":16,"name":"Hotel 16","areaName":"Bình Thạnh","cityName":"Tp Hồ Chí Minh"}
+{ "index" : { "_index" : "hotel"} }
+{"id":17,"name":"Hotel 17","areaName":"Phú Nhuận","cityName":"Tp Hồ Chí Minh"}
+{ "index" : { "_index" : "hotel"} }
+{"id":18,"name":"Hotel 18","areaName":"Củ Chi","cityName":"Tp Hồ Chí Minh"}
+{ "index" : { "_index" : "hotel"} }
+{"id":19,"name":"Hotel 19","areaName":"Hóc Môn","cityName":"Tp Hồ Chí Minh"}
+{ "index" : { "_index" : "hotel"} }
+{"id":20,"name":"Hotel 20","areaName":"Bình Chánh","cityName":"Tp Hồ Chí Minh"}
+{ "index" : { "_index" : "hotel"} }
+{"id":21,"name":"Hotel 21","areaName":"Nhà Bè","cityName":"Tp Hồ Chí Minh"}
+{ "index" : { "_index" : "hotel"} }
+{"id":22,"name":"Hotel 22","areaName":"Cần Giờ","cityName":"Tp Hồ Chí Minh"}
+{ "index" : { "_index" : "hotel"} }
+{"id":23,"name":"Hotel 23","areaName":"Thuận An","cityName":"Hà Nội"}
+{ "index" : { "_index" : "hotel"} }
+{"id":24,"name":"Hotel 24","areaName":"Ba Đình","cityName":"Hà Nội"}
+{ "index" : { "_index" : "hotel"} }
+{"id":25,"name":"Hotel 25","areaName":"Hoàn Kiếm","cityName":"Hà Nội"}
+{ "index" : { "_index" : "hotel"} }
+{"id":26,"name":"Hotel 26","areaName":"Tây Hồ","cityName":"Hà Nội"}
+{ "index" : { "_index" : "hotel"} }
+{"id":27,"name":"Hotel 27","areaName":"Long Biên","cityName":"Hà Nội"}
+{ "index" : { "_index" : "hotel"} }
+{"id":28,"name":"Hotel 28","areaName":"Cầu Giấy","cityName":"Hà Nội"}
+{ "index" : { "_index" : "hotel"} }
+{"id":29,"name":"Hotel 29","areaName":"Đống Đa","cityName":"Hà Nội"}
+{ "index" : { "_index" : "hotel"} }
+{"id":30,"name":"Hotel 30","areaName":"Hai Bà Trưng","cityName":"Hà Nội"}
+{ "index" : { "_index" : "hotel"} }
+{"id":31,"name":"Hotel 31","areaName":"Hoàng Mai","cityName":"Hà Nội"}
+{ "index" : { "_index" : "hotel"} }
+{"id":32,"name":"Hotel 32","areaName":"Thanh Xuân","cityName":"Hà Nội"}
+{ "index" : { "_index" : "hotel"} }
+{"id":33,"name":"Hotel 33","areaName":"Sóc Sơn","cityName":"Hà Nội"}
+{ "index" : { "_index" : "hotel"} }
+{"id":34,"name":"Hotel 34","areaName":"Đông Anh","cityName":"Hà Nội"}
+{ "index" : { "_index" : "hotel"} }
+{"id":35,"name":"Hotel 35","areaName":"Gia Lâm","cityName":"Hà Nội"}
+{ "index" : { "_index" : "hotel"} }
+{"id":36,"name":"Hotel 36","areaName":"Nam Từ Liêm","cityName":"Hà Nội"}
+{ "index" : { "_index" : "hotel"} }
+{"id":37,"name":"Hotel 37","areaName":"Thanh Trì","cityName":"Hà Nội"}
+{ "index" : { "_index" : "hotel"} }
+{"id":38,"name":"Hotel 38","areaName":"Bắc Từ Liêm","cityName":"Hà Nội"}
+{ "index" : { "_index" : "hotel"} }
+{"id":39,"name":"Hotel 39","areaName":"Mê Linh","cityName":"Hà Nội"}
+{ "index" : { "_index" : "hotel"} }
+{"id":40,"name":"Hotel 40","areaName":"Hà Đông","cityName":"Hà Nội"}
+{ "index" : { "_index" : "hotel"} }
+{"id":41,"name":"Hotel 41","areaName":"Sơn Tây","cityName":"Hà Nội"}
+{ "index" : { "_index" : "hotel"} }
+{"id":42,"name":"Hotel 42","areaName":"Ba Vì","cityName":"Hà Nội"}
+{ "index" : { "_index" : "hotel"} }
+{"id":43,"name":"Hotel 43","areaName":"Phúc Thọ","cityName":"Hà Nội"}
+{ "index" : { "_index" : "hotel"} }
+{"id":44,"name":"Hotel 44","areaName":"Đan Phượng","cityName":"Hà Nội"}
+{ "index" : { "_index" : "hotel"} }
+{"id":45,"name":"Hotel 45","areaName":"Hoài Đức","cityName":"Hà Nội"}
+{ "index" : { "_index" : "hotel"} }
+{"id":46,"name":"Hotel 46","areaName":"Quốc Oai","cityName":"Hà Nội"}
+{ "index" : { "_index" : "hotel"} }
+{"id":47,"name":"Hotel 47","areaName":"Thạch Thất","cityName":"Hà Nội"}
+{ "index" : { "_index" : "hotel"} }
+{"id":48,"name":"Hotel 48","areaName":"Chương Mỹ","cityName":"Hà Nội"}
+{ "index" : { "_index" : "hotel"} }
+{"id":49,"name":"Hotel 49","areaName":"Thanh Oai","cityName":"Hà Nội"}
+{ "index" : { "_index" : "hotel"} }
+{"id":50,"name":"Hotel 50","areaName":"Thường Tín","cityName":"Hà Nội"}

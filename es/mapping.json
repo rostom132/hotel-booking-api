@@ -1,0 +1,34 @@
+{
+  "settings": {
+    "analysis": {
+      "filter": {
+        "vietnamese_folding": {
+          "type": "asciifolding",
+          "preserve_original": true
+        }
+      },
+      "analyzer": {
+        "vietnamese_analyzer": {
+          "tokenizer": "standard",
+          "filter": ["lowercase", "vietnamese_folding"]
+        }
+      }
+    }
+  },
+  "mappings": {
+    "properties": {
+      "name": {
+        "type": "text",
+        "analyzer": "vietnamese_analyzer"
+      },
+      "areaName": {
+        "type": "text",
+        "analyzer": "vietnamese_analyzer"
+      },
+      "cityName": {
+        "type": "text",
+        "analyzer": "vietnamese_analyzer"
+      }
+    }
+  }
+}
