@@ -43,5 +43,6 @@ Result
 - Improve authen and author (currently using basic authen)
 - Using cache (Redis, ...) to improperformance (reduce traffic for DB)
 - Develop Log service to handle log, for further anilysing
+- Improve hotel search (search with long, lat by using PostGIS)
 - Improve booking service (use message queue with microservices, ...) to data consistance when booking (Currently using optimistic lock)
 - Build CI/CD
