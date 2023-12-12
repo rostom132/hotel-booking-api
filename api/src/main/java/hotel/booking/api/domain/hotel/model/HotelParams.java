@@ -2,6 +2,9 @@ package hotel.booking.api.domain.hotel.model;
 
 import lombok.Getter;
 import lombok.Setter;
+
+import javax.validation.constraints.NotBlank;
+
 import lombok.AllArgsConstructor;
 import lombok.NoArgsConstructor;
 
@@ -10,7 +13,8 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 @AllArgsConstructor
 public class HotelParams {
+    @NotBlank
     private String queryString;
-    private Integer pageSize;
-    private Integer pageNumber;
+    private Integer pageSize = 50;
+    private Integer pageNumber = 0;
 }

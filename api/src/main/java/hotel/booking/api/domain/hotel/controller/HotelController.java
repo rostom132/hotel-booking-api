@@ -1,5 +1,7 @@
 package hotel.booking.api.domain.hotel.controller;
 
+import javax.validation.Valid;
+
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.PathVariable;
@@ -18,7 +20,7 @@ public class HotelController {
     private final HotelService hotelService;
 
     @GetMapping
-    public HotelDto.MultipleHotel listHotels(@ModelAttribute HotelParams hotelQueryParam) {
+    public HotelDto.MultipleHotel listHotels(@Valid @ModelAttribute HotelParams hotelQueryParam) {
         return new HotelDto.MultipleHotel(hotelService.listHotels(hotelQueryParam));
     }
 
