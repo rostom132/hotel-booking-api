@@ -39,11 +39,11 @@ Result
 ![Configuration](./images/stress_test_result.png)
 
 ## TODO LIST
-- Write unittest (Target min 85%)
-- Improve authen and author (currently using basic authen)
-- Using cache (Redis, ...) to improperformance (reduce traffic for DB)
-- Develop Log service to handle log, for further anilysing
+- Write unit test (Target min 85%)
+- Improve authen and author (currently using basic auth)
+- Using cache (Redis, ...) to improve performance (reduce traffic for DB)
+- Develop Log service to handle logs, for further analysing
 - Improve hotel search (search with long, lat by using PostGIS)
-- Improve booking service (use message queue with microservices, blocking queue, LMAX, ...) to data consistance when booking (Currently using optimistic lock)
+- Improve booking service (use message queue with microservices, blocking queue, LMAX, ...) to ensure data consistency when booking (Currently using optimistic lock)
 - Apply rate limiter for booking API
 - Build CI/CD
