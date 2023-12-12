@@ -44,5 +44,6 @@ Result
 - Using cache (Redis, ...) to improperformance (reduce traffic for DB)
 - Develop Log service to handle log, for further anilysing
 - Improve hotel search (search with long, lat by using PostGIS)
-- Improve booking service (use message queue with microservices, ...) to data consistance when booking (Currently using optimistic lock)
+- Improve booking service (use message queue with microservices, blocking queue, LMAX, ...) to data consistance when booking (Currently using optimistic lock)
+- Apply rate limiter for booking API
 - Build CI/CD
